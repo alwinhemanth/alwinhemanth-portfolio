@@ -48,7 +48,7 @@
 
     }
     .about-containers{
-        margine-top:0;
+        margin-top:0;
 
     }
 
@@ -111,8 +111,9 @@
         }
         .text-container{
             text-align: justify;
-            url(d:/Actity diagroms/alwincv.pdf)
+            url("assets/alwincv.pdf");
+
         }
         }
-    }
+    
     
