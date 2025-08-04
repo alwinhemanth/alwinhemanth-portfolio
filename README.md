@@ -21,7 +21,11 @@ Welcome to my personal portfolio! This website showcases my projects, skills, re
 
 ## 📸 Screenshots
 
-*(Include screenshots or a demo GIF here if available)*
+Here is a preview of the portfolio website:
+
+![Screenshot](https://github.com/user-attachments/assets/32a02c5c-2b04-49ae-890a-c539eae2566d)
+
+
 
 ## 🚀 Getting Started
 
