@@ -29,7 +29,7 @@ To run the portfolio locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/alwinhemanth/portfolio.git
 
 # Navigate into the directory
 cd your-portfolio
