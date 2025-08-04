@@ -21,16 +21,15 @@ Welcome to my personal portfolio! This website showcases my projects, skills, re
 
 ## 📸 Screenshots
 
-Here is a preview of the portfolio website:
+<h3>🖥️ Desktop View</h3>
+<img src="https://github.com/user-attachments/assets/32a02c5c-2b04-49ae-890a-c539eae2566d" width="600"/>
 
-### 🖥️ Desktop View
-![Desktop Screenshot](https://github.com/user-attachments/assets/32a02c5c-2b04-49ae-890a-c539eae2566d)
+<h3>📱 Mobile View</h3>
+<img src="https://github.com/user-attachments/assets/0b32f351-6f68-4b58-bb17-2e2569db169c" width="250"/>
 
-### 📱 Mobile View
-![Mobile Screenshot](https://github.com/user-attachments/assets/0b32f351-6f68-4b58-bb17-2e2569db169c)
+<h3>🧩 Project Section View</h3>
+<img src="https://github.com/user-attachments/assets/fe2aca3b-3608-4768-8b53-c63be37dd6b7" width="600"/>
 
-### 🧩 Project Section View
-![Project Screenshot](https://github.com/user-attachments/assets/fe2aca3b-3608-4768-8b53-c63be37dd6b7)
 
 
 
